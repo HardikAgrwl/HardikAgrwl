@@ -1,6 +1,6 @@
 <h1 align="left">Hi , I'm Hardik Agarwal <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"></h1>
 
-<h3 align="left">🎓 I'm a 3rd Year Student at JSSATE NOIDA currently pursuing Bachelor's in Electronics and Communication Engineering. Looking to collaborate on front end projects</h3>
+<h3 align="left">🎓 I'm a 3rd Year Student at JSSATE NOIDA currently pursuing Bachelor's in Electronics and Communication Engineering. Looking to collaborate on full stack projects</h3>
 <br/>
 <p  align="center"><img src="https://miro.medium.com/fit/c/140/140/1*IRGHmiGsa16stedQvIaZfw.gif" alt="Coder GIF" width="auto" height="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikagrwl&label=Profile%20views&color=0e75b6&style=flat" alt="hardikagrwl" /> </p>
